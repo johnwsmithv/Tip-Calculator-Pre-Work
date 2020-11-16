@@ -20,9 +20,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
+Link: https://imgur.com/a/avUGa2O
+
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/avUGa2O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/avUGa2O' title='Video Walkthrough' width='600' height='337' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
